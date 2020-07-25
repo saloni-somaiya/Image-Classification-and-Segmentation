@@ -3,6 +3,7 @@
 The notebook contains machine learning models on:
 1. Image Classification: multi-label classifier using neural network
 It involves the extraction of information from an image and then associating the extracted information to one or more class labels. It is more of a supervised learning task.
+
 Used TensorBoard that provides visual insights into the events that occur during training at each epoch.
 
 
