@@ -1,4 +1,4 @@
-# ML-in-Image
+# Image Classification and Segmentation
 
 The notebook contains machine learning models on:
 1. Image Classification: multi-label classifier using neural network
